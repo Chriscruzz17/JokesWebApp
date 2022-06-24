@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{16A4163F-700C-41DE-9162-2A084D74AB48}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JokesWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JokesWebApp/Controllers/JokesController.cs">
+    <Files>
+      <File FileName="JokesWebApp/Controllers/JokesController.cs" Line="19" Column="10" />
+      <File FileName="JokesWebApp/Views/Jokes/ShowSearchForm.cshtml" Line="21" Column="6" />
+      <File FileName="JokesWebApp/Views/Jokes/Details.cshtml" Line="3" Column="3" />
+      <File FileName="JokesWebApp/Views/Jokes/Edit.cshtml" Line="35" Column="7" />
+      <File FileName="JokesWebApp/Views/Jokes/Index.cshtml" Line="28" Column="1" />
+      <File FileName="JokesWebApp/wwwroot/css/site.css" Line="1" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JokesWebApp" expanded="True">
+            <Node name="JokesWebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
